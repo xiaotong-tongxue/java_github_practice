@@ -1,0 +1,8 @@
+# Java编译生成的字节码文件
+*.class
+
+# VS Code本地配置文件夹
+.vscode/
+
+# 日志等临时文件
+*.log
